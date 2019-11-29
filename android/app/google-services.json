@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673597518294",
+    "firebase_url": "https://misnapchat-57d28.firebaseio.com",
+    "project_id": "misnapchat-57d28",
+    "storage_bucket": "misnapchat-57d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673597518294:android:ddc7ca3b64c8bb9ce7f477",
+        "android_client_info": {
+          "package_name": "com.liammiller.mi_snap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673597518294-3kudqjahcnatromdlkra7naqqn6qjhhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRvQShzjyyFBBcHD0o-EoGK78tmZA9I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673597518294-3kudqjahcnatromdlkra7naqqn6qjhhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
